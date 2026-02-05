@@ -9,12 +9,14 @@ The data sources are as follows:
 * religious composition data by country taken from Pew Research Center
     * https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/
     *  available years: 2010 and 2020
-* "happy" scores taken from the World Happiness Report
-    * https://www.worldhappiness.report/data-sharing/
-    * available years: all years 2012 to 2015
 * net migration data taken from World Bank Group
     * https://data.worldbank.org/indicator/SM.POP.NETM
     * available years: all years 1960-2024
+
+Supplemental for further exploration
+* "happy" scores taken from the World Happiness Report
+    * https://www.worldhappiness.report/data-sharing/
+    * available years: all years 2012 to 2015
 
 
 Citations
